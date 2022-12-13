@@ -3,7 +3,7 @@
     <p align="center">Algorithms to calculate the QR factorization of a matrix<p>
 </h1>
 <p align="center">
-<img src="./assets/gs.png" width="90%" height="90%"/>
+<img src="./assets/gss.jpg" width="90%" height="90%"/>
 </p>
 <br>
 <br>
